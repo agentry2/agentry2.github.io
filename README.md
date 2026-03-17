@@ -6,7 +6,7 @@
             .container { border: 2px solid #ff8000; padding: auto; max-width: 1500px; max-height: 1500px; margin: auto; }
             .container2 { border: 2px solid #ff8000; padding: auto; height: 50px; width: 250px; margin: auto; }
             .animalbtn { border: 2px solid #ff8000; padding: 10px; max-width: 150px; margin: auto; background-color: white; }
-            .hideBtn { background-color: #5a69dc; color: white; padding: 5px; margin: 10px; width: 285px; display: initial; }
+            .hideBtn { background-color: #5a69dc; color: white; padding: auto; margin: auto; width: 285px; }
             .imageContainer {border: 2px solid #ff8000; padding: auto; margin-right: auto; max-height: 300px; max-width: 300px; display: inline-block; position: relative; display: none;}
             p {border: 2px solid #ff8000; padding-top: auto; height: 50px; margin: auto; text-align: center; font-size: x-large; }
             button:hover {background-color: rgba(32, 117, 192, 0.582); }
